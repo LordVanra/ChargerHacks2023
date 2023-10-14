@@ -14,7 +14,7 @@
 			</h1></b></em>
 			<div><b><p>
 In this article, the Pollution Awareness Group feels obligated to inform all readers, on the destructive topic of Plastic Pollution.				
-			</b></div></p>
+			</b></p>
 		</div>
 	</header>
 	<div>
