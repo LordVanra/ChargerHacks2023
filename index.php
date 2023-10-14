@@ -54,21 +54,21 @@
 		<img src="ChemicalsInPlastics-1.jpg" width="500" height="350">
 		</div>
 		<div><h3><b>
-		Why is Nothing Being Done About Plastic Pollution, and What Can <em>I</em>Do to Lessen the Effects?
+		Why is Nothing Being Done About Plastic Pollution, and What Can <em>I</em> Do to Lessen the Effects?
 		</h3></div></b>
 		<div>
 			<p>
 			After reading this article, the Pollution Awareness Group hopes that the reader is more informed and globally aware on this preposterous situation.	
 			Then, the question might arouse, why is nothing being done by the government to address this problem. Well, even in th 60s when plastic pollution
 			became a problem, the government pushed this matter away, as no one in the government believed it to be a serious problem. This trend continued to 
-			go on and on, until the late 2010s, when <em>part</em>of the government saw th this distardly situation. The key word, though, is part. Still, to 
+			go on and on, until the late 2010s, when <em>part</em> of the government saw th this distardly situation. The key word, though, is part. Still, to 
 			this day many people believe that plastic pollution and climate change are not real problems. Now, the government is trying to implement new laws and 
 			barriers on the usage, production, and recycling of plastic, but many believe it to be too late. After all, we have been putting this off for the last 
 			60 years, and now we must pay the price. But, there is a sliver of hope. <b>You</b> as the reader, can do some things to help solve this problem and lessen
 			the effects of plastic pollution. Start riding bicycles to places that are a short distance away, instead of driving. You don't need to completely eradicate
 			meats from your diet, but eat less meat. Bring paper grocery bags to grocery shops instead of using plastic bags. And these are just a few suggestions. Also, 
 			don't say that "one person can't change everything", because if you do something, then others will follow along. But you as the reader must act quickly towards solving this problem, because if 
-			you start doing things too late, then it might be <em>"too late"</em>for our world.</p></div>
+			you start doing things too late, then it might be <em> "too late"</em> for our world.</p></div>
 			</p>
 			<img src="drive.webp" width="500" height="350">
 		</div>
