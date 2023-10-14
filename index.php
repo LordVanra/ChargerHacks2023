@@ -18,9 +18,11 @@ In this article, the Pollution Awareness Group feels obligated to inform all rea
 		in the ever-rampant mess known as plastic pollution. The cause of this mess is, well, us human beings.
 		The first thing the reader must know, however, is that plastic is an extremely cheap and easily accessible material.
 		It's cheap because it's created from the remains of oil manifacturing, making this material very cheap and it's 
-		produced in great amounts. 
-		
-		
+		produced in great amounts. That, and the fact that it' very versatile. It can be a grocery bag, a solid insulator, 
+		used in textiles, and much, much more. These are the main factors that propel us to use plastic in everyday life.
+		Plastic is tempting and accessible to use in all fields across the world, and the fact that our population on Earth is
+		growing as well, is not a good sign. Plastic also takes more than 400 years to decompose, which means that we can not
+		stop this problem very easily. If dire changes are not made soon, then our next generations will have to suffer.
 		</div></p>
 				
 	<footer>
