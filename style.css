@@ -1,7 +1,42 @@
 h1{
+	color: #AA0000;
+	font-size:425%;
 	text-align: center;
-	color:blue;
 }
-footer small{
-	bottom: 5%;
+h2{
+	text-align: center;
+	font-size:200%;
+}
+h1, h2{
+}
+#main{ 
+	width: 45%;
+	float: left;
+}
+#secondary{
+	position: relative;
+	top:10%;
+	clear: both;
+}
+#vid{
+	margin: 0px auto;
+	position: relative;
+	left: 40%;
+}
+article{
+	height:225%;
+}
+aside{
+	position:relative;
+	top:10%;
+	float: right;
+}
+p{
+	font-size: 125%;
+}
+body{
+	background-color:#696969;
+}
+.center{
+	text-align:center;
 }
