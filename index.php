@@ -34,7 +34,10 @@
 			growing as well, is not a good sign. Plastic also takes more than 400 years to decompose, which means that we can not
 			stop this problem very easily. If dire changes are not made soon, then our next generations will have to suffer.</p>
 
+			<img src="causes.jpg" width="500" height="350">
 		</div>		
+			<img src="pic_trulli.jpg" alt="Italian Trulli">
+
 		<div>
 			<h3><b>
 			Why is Plastic Pollution Harmful to Our Earth?
@@ -48,7 +51,9 @@
 		and water in the environment. 	Even worse, BPA is linked with many cancers, most notably, breast cancer. So, as one can see, plastic is not only harmful for 
 		the environment, but also for the ones who live in the environment. That includes plants as well, because when high levels of  BPA are reached in the environment,
 		plants' ability to peform photosynthesis effieciently are reduced. Many people in our world today believe that plastic only has a small effect
-		on the environment, but it has a large one, as well as huge effects on us <em><b>humans and plants</b></em>.</p></div>
+		on the environment, but it has a large one, as well as huge effects on us <em><b>humans and plants</b></em>.</p>
+		<img src="ChemicalsInPlastics-1.jpg" width="500" height="350">
+		</div>
 		<div><h3><b>
 		Why is Nothing Being Done About Plastic Pollution, and What Can <em>I</em>Do to Lessen the Effects?
 		</h3></div></b>
@@ -66,6 +71,7 @@
 			don't say that "one person can't change everything", because if you do something, then others will follow along. But you as the reader must act quickly towards solving this problem, because if 
 			you start doing things too late, then it might be <em>"too late"</em>for our world.</p></div>
 			</p>
+			<img src="drive.webp" width="500" height="350">
 		</div>
 				<div><h3><em>
 				This is a Link to the Plastic Polluton Coalition Group, Their Goal is to Create a World Free of Plastic Pollution
