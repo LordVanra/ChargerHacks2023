@@ -35,8 +35,6 @@
 
 			<img src="img/causes.jpg" width="500" height="350">
 		</div>		
-			<img src="img/pic_trulli.jpg" alt="Italian Trulli">
-
 		<div>
 			<h3><b>
 			Why is Plastic Pollution Harmful to Our Earth?
