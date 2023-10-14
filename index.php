@@ -7,7 +7,6 @@
 	<body>
 		<header>
 			<nav>
-				<a href="index.html">Home</a>
 				<a href="game.html">Interactive Game</a>
 			</nav>
 			<div>
