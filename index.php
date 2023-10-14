@@ -33,9 +33,9 @@
 			growing as well, is not a good sign. Plastic also takes more than 400 years to decompose, which means that we can not
 			stop this problem very easily. If dire changes are not made soon, then our next generations will have to suffer.</p>
 
-			<img src="causes.jpg" width="500" height="350">
+			<img src="img/causes.jpg" width="500" height="350">
 		</div>		
-			<img src="pic_trulli.jpg" alt="Italian Trulli">
+			<img src="img/pic_trulli.jpg" alt="Italian Trulli">
 
 		<div>
 			<h3><b>
@@ -70,7 +70,7 @@
 			don't say that "one person can't change everything", because if you do something, then others will follow along. But you as the reader must act quickly towards solving this problem, because if 
 			you start doing things too late, then it might be <em> "too late"</em> for our world.</p></div>
 			</p>
-			<img src="drive.webp" width="500" height="350">
+			<img src="img/drive.webp" width="500" height="350">
 		</div>
 				<div><h3><em>
 				This is a Link to the Plastic Polluton Coalition Group, Their Goal is to Create a World Free of Plastic Pollution
@@ -86,7 +86,7 @@
 			</em></h3></div>
 			<div><h3><em>
 				This Video Will Really Open the Eyes of the Viewer on This Disastrous Problem
-		<video width="350" height="250" controls> <source src="video.mp4" type="video/mp4">
+		<video width="350" height="250" controls> <source src="img/video.mp4" type="video/mp4">
 		</video>
 			</em></h3></div>
 				
