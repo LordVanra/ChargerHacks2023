@@ -37,3 +37,4 @@ for event in pygame.event.get():
 		pygame.quit()
         sys.exit()
 	await asyncio.sleep(0)
+asyncio.run(main())
