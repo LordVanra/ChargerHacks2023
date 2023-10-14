@@ -2,4 +2,6 @@ h1{
 	text-align: center;
 	color:blue;
 }
-
+footer small{
+	bottom: 5%;
+}
