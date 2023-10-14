@@ -5,15 +5,23 @@
 				How Humans Have Really Made the World Into Man vs. Earth
 			</h1></b></em>
 		</div>
-			<b><p><div><h2>
+			<div><h2>
 In this article, the Pollution Awareness Group feels obligated to inform all readers, on the destructive topic of Plastic Pollution.				
-			</b></p></div>
-			</h2>
+			</div></h2>
 	<div>
-		<h3>
-		The (Im)Pure Changes That Humans Have Contributed to on Our Earth!
-		</h3>
+		<h3><b>
+		Why is Plastic Pollution Happening?
+		</h3><b>
 	</div>
+		<div><p>
+			Ever since the 1960s and early 70s, our beloved Earth has been "poisoned" as one would say, 
+		in the ever-rampant mess known as plastic pollution. The cause of this mess is, well, us human beings.
+		The first thing the reader must know, however, is that plastic is an extremely cheap and easily accessible material.
+		It's cheap because it's created from the remains of oil manifacturing, making this material very cheap and it's 
+		produced in great amounts. 
+		
+		
+		</div></p>
 				
 	<footer>
 		<small>
