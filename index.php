@@ -1,5 +1,9 @@
 <!DOCTYPE html>
 <html>
+	<head>
+		<title>Home</title>
+		<link rel="stylesheet" type="text/css" href="style.css" />
+	</head>
 	<header>
 		<nav>
 			<a href="game.html"> Interactive pollution game </a>
@@ -12,7 +16,7 @@
 	</header>
 	<div>
 		<h2>
-		The Pure Changes That Humans Have Contributed to on Our Earth!
+		The (Im)Pure Changes That Humans Have Contributed to on Our Earth!
 		</h2>
 	</div>
 	<footer>
