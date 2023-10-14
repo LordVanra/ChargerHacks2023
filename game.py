@@ -32,7 +32,8 @@ windowSurface.blit(text, textRect)
 pygame.display.update()
 
 while True:
-  for event in pygame.event.get():
-    if event.type == QUIT:
-        pygame.quit()
+for event in pygame.event.get():
+	if event.type == QUIT:
+		pygame.quit()
         sys.exit()
+	await asyncio.sleep(0)
