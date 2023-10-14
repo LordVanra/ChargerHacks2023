@@ -66,6 +66,19 @@
 			don't say that "one person can't change everything", because if you do something, then others will follow along. But you as the reader must act quickly towards solving this problem, because if 
 			you start doing things too late, then it might be <em>"too late"</em>for our world.</p></div>
 			</p>
+		</div>
+				<div><h3><em>
+				This is a Link to the Plastic Polluton Coalition Group, Their Goal is to Create a World Free of Plastic Pollution
+				<a href="https://www.plasticpollutioncoalition.org/">Plastic Pollution Coalition</a>
+				</em></h3></div>
+			<div><h3><em>
+			This is a Link to the Alliance to End Plastic Waste, Their Goal is to Stop All Plastic Waste From Coming Into the Environment
+			<a href="https://endplasticwaste.org/?gclid=CjwKCAjw-KipBhBtEiwAWjgwrFLDlwrOKSWtZ110dl6glk2U0QML-8Hc5XHDwr5Sc1sQDD5zSdTIQBoC_0wQAvD_BwE/">ATEPW</a>
+				</em></h3></div>
+			<div><h3><em>
+				This is a Link to a Website That Provides Some Ideas For Switches
+			
+
 				
 			
 		
