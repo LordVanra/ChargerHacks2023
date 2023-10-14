@@ -12,6 +12,9 @@
 			<em><b><h1>
 				How Humans Have Utterly Destroyed Our World!
 			</h1></b></em>
+			<div><b>
+In this article, the Pollution Awareness Group feels obligated to inform all readers, on the most horrendous beast of all-Plastic Pollution!				
+			</b></div>
 		</div>
 	</header>
 	<div>
