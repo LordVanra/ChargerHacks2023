@@ -84,6 +84,7 @@
 			</em></h3></div>
 			<div><h3><em>
 				This Video Will Really Open the Eyes of the Viewer on This Disastrous Problem
+				
 		<video width="350" height="250" controls> <source src="img/video.mp4" type="video/mp4">
 		</video>
 			</em></h3></div>
