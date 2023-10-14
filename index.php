@@ -38,7 +38,12 @@
 					
 				</div>
 		<div><p>
-		Plastic Pollution is the most harmful thing on our planet right now, but why?				
+		Plastic Pollution is the most harmful thing on our planet right now, but why? To answer this question, one must look deeper
+		into what plastic really is. Plastic is made up of many different esters, but two of the most vile products found in plastic's
+		"genetic variation" are Bisphenol A(BPA)and Pthalates. Let's take a look at BPA first. BPA is recognized as an "endocrine disruptor",
+		which means that BPA a compound that prevents organic hormones from securing on to each other. Even worse, BPA is linked with many cancers, 
+		most notably, breast cancer. So, 
+		
 							
 		</div></p>
 		<footer>
