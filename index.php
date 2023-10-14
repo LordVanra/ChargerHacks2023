@@ -31,6 +31,16 @@
 			growing as well, is not a good sign. Plastic also takes more than 400 years to decompose, which means that we can not
 			stop this problem very easily. If dire changes are not made soon, then our next generations will have to suffer.</p>
 		</div>	
+				<div>
+					<h3><b>
+					Why is Plastic Pollution Harmful to Our Earth?
+					</h3></b>
+					
+				</div>
+		<div><p>
+		Plastic Pollution is the most harmful thing on our planet right now, but why?				
+							
+		</div></p>
 		<footer>
 			<small>
 				&copy; 2023 All rights reserved - Pollution Awareness Group
