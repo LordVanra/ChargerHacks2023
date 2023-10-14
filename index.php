@@ -10,11 +10,11 @@
 		</nav>
 		<div>
 			<em><b><h1>
-				How Humans Have Made the World Into Man vs. Earth
+				How Humans Have Really Made the World Into Man vs. Earth
 			</h1></b></em>
-			<div><b>
-In this article, the Pollution Awareness Group feels obligated to inform all readers, on the most horrendous beast of all-Plastic Pollution!				
-			</b></div>
+			<div><b><p>
+In this article, the Pollution Awareness Group feels obligated to inform all readers, on the destructive topic of Plastic Pollution.				
+			</b></div></p>
 		</div>
 	</header>
 	<div>
