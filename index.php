@@ -82,11 +82,13 @@
 			<a href="https://endplasticwaste.org/?gclid=CjwKCAjw-KipBhBtEiwAWjgwrFLDlwrOKSWtZ110dl6glk2U0QML-8Hc5XHDwr5Sc1sQDD5zSdTIQBoC_0wQAvD_BwE/">ATEPW</a>
 				</em></h3></div>
 			<div><h3><em>
-				This is a Link to a Website That Provides Some Ideas For Switches in Peoples Everyday Lifestyle, Regarding Plastic Pollution
+				This is a Link to a Website That Provides Some Ideas For Switches in Our Everyday Lifestyles, Regarding Plastic Pollution
 				<a href="https://pebblemag.com/magazine/doing/5-simple-plastic-free-switches-to-beat-plastic-pollution/">Best Lifestyle Switches for a Healthier Environment</a>
 			</em></h3></div>
-			
-
+			<div><h3><em>
+				This Video Will Really Open the Eyes of the Viewer on This Disastrous Problem
+		<video width="350" height="250" controls> <source src="movie.mp4" type="video/mp4">
+				
 				
 			
 		
