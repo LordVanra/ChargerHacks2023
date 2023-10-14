@@ -5,6 +5,10 @@
 		<link rel="stylesheet" type="text/css" href="style.css" />
 	</head>
 	<body>
+
+		<!-- Insert this where you wnat the image to go -->
+		<img src="img/causes.jpg">
+		
 		<div>
 			<em><b>
 				<h1>How Humans Have Really Made the World Into Man vs. Earth</h1>
