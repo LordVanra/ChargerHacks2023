@@ -49,20 +49,22 @@ class Trash(Sprite):
 	def __init__(this, images):
 		super().__init__()
 		this.screen = windowSurface
-		rn = randint(0, 4)
 		
-		this.trash = pygame.image.load(images[rn])
+		this.trash = pygame.image.load("img/trash/bottle.png")
 		this.rect = this.trash.get_rect()
 		this.rect.x = randint(30, 900)
 		this.rect.y -= 50
+		#rn = randint(0, len(images))
+		
+		#print(rn)
 		
 	def update(this):	
-		this.rect.y += 4
+		this.rect.y += 5
 
 async def main():
 
 	#constants and variable
-	IMAGES = ["img/trash/bottle.png", "img/trash/bag.png", "img/trash/fork.png", "img/trash/milk.png", "img/trash/trash.png"]
+	IMAGES = ["src/trash/bottle.png", "src/trash/bag.png", "src/trash/fork.png", "src/trash/milk.png", "src/trash/trash.png"]
 	SPEED = 7.5
 	MAXRIGHT = 919
 	diff = 250
@@ -135,6 +137,7 @@ async def main():
 					diff -= 15
 			if diff < 15:
 				diff = 50
+			print(diff)
 			
 			text1 = smallFont.render("Lives left: " + str(lives), False, BLACK)
 			textRect1 = text1.get_rect()
