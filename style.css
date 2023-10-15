@@ -35,7 +35,7 @@ p{
 	font-size: 125%;
 }
 body{
-	background-color:#696969;
+	background-color:#AAAAAA;
 }
 .center{
 	text-align:center;
@@ -68,4 +68,7 @@ nav{
 #text{
 	margin:25px;
 	top:9%;
+}
+#popupimage{
+	display: none;
 }
